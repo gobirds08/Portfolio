@@ -1,1 +1,7 @@
-# Portfolio
+#Projects
+
+Memory Manager: This project was part of my operating systems curriculum during Fall 2023. I had to implement the malloc, free, realloc, and the heap checker functions. This was done through C programming language running on Ubuntu 20.04 tthrough VirtualBox VM. All the code and function documentation can be seen in the malloc.c file.  I used a segregated free list implementation to keep track of free memory blocks and improve efficiency. Through the tests provided in the project folder, I was able to get about 10,000 kilo operations per second and 57% memory utilization.
+
+Course Scheduler: This project was included in my Object Oriented Programming coursework during Spring 2022. The main goal was to create a scheduler for both student and admin use where admins can create new semesters, students, and courses, while students can add courses to their schedule for a specified semester that they choose. When an admin creates a course, they set attributes for the course including number of seats, coursecode, description, and the semester it is currently being offered. All these attributes along with the other data (such as students) is stored in a Derby database using SQL quieries. Overall, this project utilized NetBeans, Derby DB, Netbeans GUI Tool, Java, and SQL.
+
+Other Mentions: I am currently enrolled (Spring 2024) in an Applications Programming class which focuses on building iOS apps using XCode, Swift, and SwiftUI. I am also currently working through a Full-Stack Engineer path on Codecademy which goes over HTML, CSS, Javascript, React, databases, and more. I am looking to have these both done by end of this semester.
