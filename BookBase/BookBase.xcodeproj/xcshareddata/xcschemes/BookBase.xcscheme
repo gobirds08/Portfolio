@@ -73,13 +73,6 @@
             ReferencedContainer = "container:BookBase.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <EnvironmentVariables>
-         <EnvironmentVariable
-            key = "BOOKS_API_KEY"
-            value = "AIzaSyBrQ6S9hZYFDugHZFA9Nf5-G2r8ljYpfs0"
-            isEnabled = "YES">
-         </EnvironmentVariable>
-      </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
